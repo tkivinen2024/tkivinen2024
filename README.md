@@ -13,4 +13,5 @@ This Gihub contains the following repositories:
 
 Learning Diary: https://github.com/tkivinen2024/tkivinen2024/blob/main/SDS_learning_diary_template.pdf
 
+Project work video: https://github.com/tkivinen2024/tkivinen2024/blob/main/LensApp_2024-04-23.mp4
 
