@@ -11,5 +11,6 @@ This Gihub contains the following repositories:
 5) MEANAUTHAPP				- Full Stack course training
 6) LensApp					- Full Stack course Project work
 
+Learning Diary: https://github.com/tkivinen2024/tkivinen2024/blob/main/SDS_learning_diary_template.pdf
 
 
