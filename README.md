@@ -15,4 +15,4 @@ Learning Diary: https://github.com/tkivinen2024/tkivinen2024/blob/main/SDS_learn
 
 Project work video: https://github.com/tkivinen2024/tkivinen2024/blob/main/LensApp_2024-04-23.mp4
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{tkivinen024}/count.svg)
